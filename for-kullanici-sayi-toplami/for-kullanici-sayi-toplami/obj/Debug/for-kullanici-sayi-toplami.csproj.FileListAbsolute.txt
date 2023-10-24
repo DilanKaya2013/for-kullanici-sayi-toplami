@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\bin\Debug\for-kullanici-sayi-toplami.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\bin\Debug\for-kullanici-sayi-toplami.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\bin\Debug\for-kullanici-sayi-toplami.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for_kullanici_sayi_toplami.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for_kullanici_sayi_toplami.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-kullanici-sayi-toplami\for-kullanici-sayi-toplami\obj\Debug\for-kullanici-sayi-toplami.pdb
